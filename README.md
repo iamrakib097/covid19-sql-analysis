@@ -54,17 +54,12 @@ The project utilizes SQL Views and Temporary Tables to simplify complex calculat
 
 ## How to Use
 
-1. **Download the COVID-19 data:**
-   -From Data Folder
-3. **Create Database into Microsoft SQL Server Management Studio:**
-
-4. **Import tables into Newly Created Database:**
-  -Right Click on Created Database then Goto Tasks-->Import Data-->
-  -If this not work use SQL SERVER Import and Export Data Application
-5. **Execute SQL queries:**
+1. **Create Database into Microsoft SQL Server Management Studio:**
+2. **Import tables into Newly Created Database:**
+  -Table1 : Import **CovidDeaths.xlsx**
+  -Table2 : Import **CovidVaccination.xlsx**
+3. **Execute SQL queries:**
    - Run the provided SQL queries to perform various analyses.
-6. **Utilize views and temporary tables:**
-   - Leverage SQL views and temporary tables for more complex calculations.
 
 ## Contributing
 This project features a comprehensive dataset of COVID-19, capturing data up to the latest available information. There is a myriad of opportunities for analysis, and contributions from the community are highly encouraged. Whether you have insights to share, additional analyses to conduct, or improvements to suggest, your input is valuable. Feel free to explore the dataset, run new SQL queries, or propose novel ways to extract meaningful information. Together, we can harness the power of this extensive dataset to gain deeper insights into the trends and patterns of the ongoing pandemic. Your contributions play a vital role in enhancing the overall understanding of COVID-19 through data analysis.
